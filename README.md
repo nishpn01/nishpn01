@@ -1,8 +1,8 @@
 # Pranish (Nish) Pakwan
 
-I'm Nish. I build AI tools, and right now I'm working on HiredStack, a product to help people manage their job search. I spend time on the product itself and on how to get it in front of the people it's for.
+I'm Nish. I build AI tools, and right now I'm working on HiredStack, a product to help people manage their job search. I also built Marketing Studio to turn my research and notes into drafts I can review for HiredStack.
 
-My background is in analytics and business systems, with experience in e-commerce, car rental, sales, and marketing. When I build something, I start by looking at how the work gets done today and where a tool would actually help.
+My background is in analytics and business systems, with experience in e-commerce, car rental, sales, and marketing. I like working on questions where the answer will shape a decision. At Vanderbilt, the question was which online graduate programs to explore next.
 
 ## Selected work
 
@@ -20,6 +20,6 @@ During my Pfizer externship, I looked at how reliably an AI system could answer 
 
 ### [Program Viability Assessment](https://github.com/nishpn01/program-viability-assessment)
 
-Vanderbilt wanted to know which online graduate programs were worth exploring. I joined federal education and labor data in PostgreSQL and scored 1,254 candidates to narrow the list to five. The [Tableau dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2) shows the evidence behind the shortlist.
+To find online graduate programs worth exploring for Vanderbilt, I joined federal education and labor data in PostgreSQL and scored 1,254 candidates. That gave me five programs to recommend for a closer look. The [Tableau dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2) shows the evidence behind the shortlist.
 
 [Portfolio](https://www.ppqworks.com) · [Email](mailto:nish.pn01@gmail.com)

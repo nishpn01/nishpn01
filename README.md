@@ -1,44 +1,27 @@
-## Pranish (Nish) Pakwan
+# Pranish (Nish) Pakwan
 
-I build data analyses end to end: collecting the data, modeling it in SQL, and turning it
-into something a decision-maker can act on. I document the reasoning behind an analysis as
-carefully as the analysis itself, including the parts that did not work.
+I'm Nish. I build AI tools, and right now I'm working on HiredStack, a product to help people manage their job search. I also built Marketing Studio for HiredStack so I could turn research and notes into drafts I can review.
 
-I also explore AI-assisted application workflows and document question answering, with an emphasis on requirements, source evidence, and evaluation.
+I've worked in e-commerce, car rental, sales, and marketing. In a strategy role, I set up HubSpot so the sales team could see where each lead stood and who was responsible for following up. I built dashboards to track how quickly new leads were coming in and how much it cost to acquire a customer. I also documented the handoffs and trained a team to handle new leads on their own.
 
-### Projects
+I bring that experience to AI and analytics projects. I can work with a team to understand how they do something today, look at the data, and figure out what would help. Sometimes that's a recommendation the team can act on. Sometimes it's a tool they can try in their day-to-day work.
 
-**[Program Viability Assessment](https://github.com/nishpn01/program-viability-assessment)**
-Which new online graduate program should a university launch next? Scores all 1,254
-candidate fields of study on national student demand and labor-market demand, bridging two
-federal datasets that share no common key, then narrows to five finalists with a ranked
-case behind each one. PostgreSQL, Python, Tableau.
-[Live dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2)
+## Selected work
 
-**[Data Job Market Analysis](https://github.com/nishpn01/SQL_Project_Data_Job_Analysis)**
-SQL analysis of the 2023 data-job market: where the salary ceilings are, which skill
-combinations actually pay, and when hiring happens through the year. PostgreSQL, Tableau.
-[Live dashboard](https://public.tableau.com/views/JobMarketAnalysis_17745897577470/Top10Salary)
+### [Marketing Studio](https://github.com/nishpn01/marketing-studio)
 
-**[Customer Segmentation](https://github.com/nishpn01/python_customer_segmentation)**
-K-Means clustering on retail transaction data, producing five behavioral personas and a
-marketing playbook built on what separates them. Python, scikit-learn.
+I wanted a way to turn HiredStack's research and notes into marketing drafts I could review. I built a workflow where one agent writes the draft and separate reviewers check the claims and the writing. I get the draft, its sources, and both reviews together so I can decide what to use.
 
-**[SimplyCareer: job application cockpit](https://www.ppqworks.com/work/simplycareer)**
-A job-application product in development. My work covers requirements, architecture, business and technical documentation, and development with AI assistance. Documentation and authentication are complete; database setup is partly complete and core feature development is still ahead.
+### [Inbox Agent](https://github.com/nishpn01/inbox-agent)
 
-**[AI Document Intelligence](https://github.com/nishpn01/ai-document-intelligence)**
-OCR, retrieval, and document question-answering experiments developed during my Pfizer externship. The public edition includes sanitized notebooks and a fictional-document reference demo, with the historical evaluation and its limitations documented separately. Python, OCR, embeddings, LlamaIndex.
-[Case study](https://www.ppqworks.com/work/ai-document-insights)
+I built Inbox Agent to sort email with labels I can adjust. It explains each suggestion and uses my corrections on the next run. The [demo](https://inbox-agent-tan.vercel.app) shows how that works with 49 fictional emails.
 
-### Tools
+### [AI Document Intelligence](https://github.com/nishpn01/ai-document-intelligence)
 
-SQL (PostgreSQL) · Python (pandas, scikit-learn, matplotlib) · Tableau · Excel
+During my Pfizer externship, I looked at how reliably an AI system could answer questions about PDFs. I compared ways to extract text and retrieve relevant passages, then checked five answers against the source documents to see where the system went wrong.
 
-Document-AI experiments: Tesseract · embeddings · LlamaIndex · Gradio
+### [Program Viability Assessment](https://github.com/nishpn01/program-viability-assessment)
 
-### Contact
+I wanted to find out which online graduate programs Vanderbilt should explore next. I joined federal education and labor data in PostgreSQL and scored 1,254 candidates. The analysis gave me five programs to recommend for a closer look. The [Tableau dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2) shows the evidence behind the shortlist.
 
-Portfolio: [ppqworks.com](https://www.ppqworks.com)
-
-Email: [nish.pn01@gmail.com](mailto:nish.pn01@gmail.com)
+[Portfolio](https://www.ppqworks.com) · [Email](mailto:nish.pn01@gmail.com)

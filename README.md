@@ -1,6 +1,8 @@
 # Pranish (Nish) Pakwan
 
-I'm Nish. I build AI tools, and right now I'm working on HiredStack to help people manage their job search. I came to this work through analytics and business systems.
+I'm Nish. I build AI tools, and right now I'm working on HiredStack, a product to help people manage their job search. I spend time on the product itself and on how to get it in front of the people it's for.
+
+My background is in analytics and business systems, with experience in e-commerce, car rental, sales, and marketing. When I build something, I start by looking at how the work gets done today and where a tool would actually help.
 
 ## Selected work
 

@@ -22,6 +22,6 @@ During my Pfizer externship, I looked at how reliably an AI system could answer 
 
 ### [Program Viability Assessment](https://github.com/nishpn01/program-viability-assessment)
 
-I built the Program Viability Assessment as a project to find online graduate programs worth exploring for Vanderbilt. I joined federal education and labor data in PostgreSQL and scored 1,254 candidates. That gave me five programs to recommend for a closer look. The [Tableau dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2) shows the evidence behind the shortlist.
+I wanted to find out which online graduate programs Vanderbilt should explore next. I joined federal education and labor data in PostgreSQL and scored 1,254 candidates. The analysis gave me five programs to recommend for a closer look. The [Tableau dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2) shows the evidence behind the shortlist.
 
 [Portfolio](https://www.ppqworks.com) · [Email](mailto:nish.pn01@gmail.com)

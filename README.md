@@ -2,7 +2,7 @@
 
 I'm Nish. I build AI tools, and right now I'm working on HiredStack, a product to help people manage their job search. I also built Marketing Studio for HiredStack so I could turn research and notes into drafts I can review.
 
-I've worked in e-commerce, car rental, sales, and marketing. In a strategy role, I helped manage a team and improve how work got done. I mapped the steps people followed, looked at where work got stuck, and worked with the team on what to change.
+I've worked in e-commerce, car rental, sales, and marketing. In a strategy role, I set up HubSpot so the sales team could see where each lead stood and who was responsible for following up. I built dashboards to track how quickly new leads were coming in and how much it cost to acquire a customer. I also documented the handoffs and trained a team to handle new leads on their own.
 
 I bring that experience to AI and analytics projects. I can work with a team to understand how they do something today, look at the data, and figure out what would help. Sometimes that's a recommendation the team can act on. Sometimes it's a tool they can try in their day-to-day work.
 

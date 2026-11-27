@@ -1,44 +1,22 @@
-## Pranish (Nish) Pakwan
+# Pranish (Nish) Pakwan
 
-I build data analyses end to end: collecting the data, modeling it in SQL, and turning it
-into something a decision-maker can act on. I document the reasoning behind an analysis as
-carefully as the analysis itself, including the parts that did not work.
+I design and build AI workflows for recurring business tasks, like sorting email or turning research into a draft someone can review. I start by mapping how the work gets done. Then I decide what an agent can handle, where a person should step in, and how to check whether the output is useful.
 
-I also explore AI-assisted application workflows and document question answering, with an emphasis on requirements, source evidence, and evaluation.
+My background is in analytics and business systems. I use SQL and Tableau to make recommendations people can trace back to the data. I bring that same habit of checking the evidence to the AI tools I build.
 
-### Projects
+## What I'm building
 
-**[Program Viability Assessment](https://github.com/nishpn01/program-viability-assessment)**
-Which new online graduate program should a university launch next? Scores all 1,254
-candidate fields of study on national student demand and labor-market demand, bridging two
-federal datasets that share no common key, then narrows to five finalists with a ranked
-case behind each one. PostgreSQL, Python, Tableau.
-[Live dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2)
+### [Marketing Studio](https://github.com/nishpn01/marketing-studio)
 
-**[Data Job Market Analysis](https://github.com/nishpn01/SQL_Project_Data_Job_Analysis)**
-SQL analysis of the 2023 data-job market: where the salary ceilings are, which skill
-combinations actually pay, and when hiring happens through the year. PostgreSQL, Tableau.
-[Live dashboard](https://public.tableau.com/views/JobMarketAnalysis_17745897577470/Top10Salary)
+I built this for HiredStack, the job-search product I'm working on. I wanted a way to take a rough idea and the relevant source material and get to a draft I could actually review. One agent writes, separate reviewers check the claims and the writing, and I approve the exact version. I use offline evaluations to check what changes when I revise the workflow.
 
-**[Customer Segmentation](https://github.com/nishpn01/python_customer_segmentation)**
-K-Means clustering on retail transaction data, producing five behavioral personas and a
-marketing playbook built on what separates them. Python, scikit-learn.
+### [Inbox Agent](https://github.com/nishpn01/inbox-agent)
 
-**[SimplyCareer: job application cockpit](https://www.ppqworks.com/work/simplycareer)**
-A job-application product in development. My work covers requirements, architecture, business and technical documentation, and development with AI assistance. Documentation and authentication are complete; database setup is partly complete and core feature development is still ahead.
+An inbox triage tool that suggests labels and explains why each one fits. Corrections carry into the next run, and the person using it can approve changes to the labeling rules. The [demo](https://inbox-agent-tan.vercel.app) uses 49 fictional emails.
 
-**[AI Document Intelligence](https://github.com/nishpn01/ai-document-intelligence)**
-OCR, retrieval, and document question-answering experiments developed during my Pfizer externship. The public edition includes sanitized notebooks and a fictional-document reference demo, with the historical evaluation and its limitations documented separately. Python, OCR, embeddings, LlamaIndex.
-[Case study](https://www.ppqworks.com/work/ai-document-insights)
+## Other work
 
-### Tools
+- **[AI Document Intelligence](https://github.com/nishpn01/ai-document-intelligence).** During my Pfizer externship, I compared OCR and retrieval approaches for answering questions about PDFs. I checked answers against the source documents and investigated failures in retrieval and errors in the answer key.
+- **[Program Viability Assessment](https://github.com/nishpn01/program-viability-assessment).** I joined federal education and labor data in PostgreSQL, scored 1,254 possible online graduate programs for Vanderbilt, and narrowed the list to five. The [Tableau dashboard](https://public.tableau.com/app/profile/pranish.p7454/viz/OnlineProgramViabilityAssessment/Program_Overview_Dashboard2) shows the evidence behind the shortlist.
 
-SQL (PostgreSQL) · Python (pandas, scikit-learn, matplotlib) · Tableau · Excel
-
-Document-AI experiments: Tesseract · embeddings · LlamaIndex · Gradio
-
-### Contact
-
-Portfolio: [ppqworks.com](https://www.ppqworks.com)
-
-Email: [nish.pn01@gmail.com](mailto:nish.pn01@gmail.com)
+[Portfolio](https://www.ppqworks.com) · [Email](mailto:nish.pn01@gmail.com)
